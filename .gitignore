@@ -1,0 +1,18 @@
+# Trained checkpoints (~14GB each) — regenerate with scripts/train.sh
+TrainedModels/
+
+# Run logs
+logs/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local-only smoke run script
+trainmini.sh
+attackmini.sh
+
+# Stray run logs
+*.log
+
+

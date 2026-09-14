@@ -1,0 +1,120 @@
+{
+  "num_labels": 5,
+  "flip_locations": {
+    "0": [
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 57,
+        "calib_asr": 1.0,
+        "score": 1.7429443990322102
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 26,
+        "calib_asr": 1.0,
+        "score": 1.430993754965406
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "dim": 125,
+        "calib_asr": 1.0,
+        "score": 3.284969456064719
+      }
+    ],
+    "1": [
+      {
+        "layer": 0,
+        "head": 7,
+        "dim": 67,
+        "calib_asr": 1.0,
+        "score": 3.1853761609689126
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 92,
+        "calib_asr": 1.0,
+        "score": 2.2183472341671084
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 117,
+        "calib_asr": 1.0,
+        "score": 2.060546875
+      }
+    ],
+    "2": [
+      {
+        "layer": 0,
+        "head": 7,
+        "dim": 92,
+        "calib_asr": 1.0,
+        "score": 2.041015625
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "dim": 78,
+        "calib_asr": 1.0,
+        "score": 1.5625
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "dim": 48,
+        "calib_asr": 1.0,
+        "score": 2.899226531108508
+      }
+    ],
+    "3": [
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 91,
+        "calib_asr": 1.0,
+        "score": 1.724853515625
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 65,
+        "calib_asr": 1.0,
+        "score": 1.556396484375
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "dim": 122,
+        "calib_asr": 1.0,
+        "score": 2.6566487069182996
+      }
+    ],
+    "4": [
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 81,
+        "calib_asr": 1.0,
+        "score": 2.05322265625
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 32,
+        "calib_asr": 1.0,
+        "score": 1.695556640625
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "dim": 38,
+        "calib_asr": 1.0,
+        "score": 1.650390625
+      }
+    ]
+  }
+}
